@@ -8,7 +8,7 @@ export default function Top() {
       <div style={{ display: "flex", paddingTop: 20 }}>
         <div style={{ flex: "100px 0 0" }}>
           <img
-            style={{ display: "block", width: 150 }}
+            style={{ display: "block", width: 50 }}
             src="/images/logo.png"
             alt="logo"
           />
